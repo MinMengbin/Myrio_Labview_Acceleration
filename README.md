@@ -8,11 +8,11 @@ Power off: Stop
 
 
 
+# realtime_time critical application 
 
+Timed_loop accuary is higher than while loop with both realtime delay and time dalay. (test coding is RT_timing.vi)
 
-
-
-
+Timed_loop maxium error: 100 us at 1250 us (loop time); 20 us at 1 s (loop time)
 
 
 # Reference
